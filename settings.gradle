@@ -1,0 +1,2 @@
+rootProject.name = "Static_RecycalView_kotlin"
+include ':app'

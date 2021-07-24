@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Static_RecycalView_kotlin</string>
+    <string name="emai">emai</string>
+    <string name="Password">password</string>
+</resources>
